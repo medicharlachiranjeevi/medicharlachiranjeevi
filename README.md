@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **k8s, argocd, aws and python automation**
 - 🌱 I’m currently learning **chef and spinnaker**
 - 👯 I’m looking to collaborate **Devops tools projects**
-<!-- - 🤔 I’m looking for help with **Deep Learning** -->
+- 🤔 I’m looking for help with **Security and pen testing**
 - 💬 Ask me about **Python, k8s and Docker**
 - 📫 How to reach me: <a href="www.linkedin.com/in/medicharla-chiranjeevi/"><img align="center" width="60px" src="https://svgshare.com/i/ZEc.svg" /></a>
 - ⚡ fact: **while(!(succeed = try()));**
