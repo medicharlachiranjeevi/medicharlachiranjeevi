@@ -27,7 +27,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/saketh33">
+<a href="https://github.com/medicharlachiranjeevi">
   <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=medicharlachiranjeevi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
